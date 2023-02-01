@@ -1,5 +1,7 @@
 ## Projeto Clone Tela Incial Instagram
 
+![](https://github.com/edvaldoljr/Projeto-FrontEnd-Clone-Tela-Inicial-Instagram/blob/main/src/img/img-projeto.gif?raw=true)
+
 Este é um clone da tela inicial do Instagram. Ele é construído com HTML, CSS e imagens. A tela mostra um celular com a aparência da interface do Instagram e permite que um usuário já logado possa continuar com sua conta ou remover a conta. Além disso, há uma opção para trocar de conta ou se inscrever em uma conta nova. Por fim, a tela também possui links para baixar o aplicativo do Instagram na App Store ou na Google Play Store.
 
 ## Requisitos:
@@ -282,8 +284,6 @@ Este clone da tela inicial do Instagram está hospedado no GitHub Pages, uma pla
 ## Acesse o Link e confira:
 
 ##  https://edvaldoljr.github.io/Projeto-FrontEnd-Clone-Tela-Inicial-Instagram/
-
-![](https://github.com/edvaldoljr/Projeto-FrontEnd-Clone-Tela-Inicial-Instagram/blob/main/src/img/img-projeto.gif?raw=true)
 
 # ⭐️ **Deixe um Star** ⭐️
 
