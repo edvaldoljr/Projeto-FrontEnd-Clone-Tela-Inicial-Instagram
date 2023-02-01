@@ -283,7 +283,7 @@ Este clone da tela inicial do Instagram está hospedado no GitHub Pages, uma pla
 
 ##  https://edvaldoljr.github.io/Projeto-FrontEnd-Clone-Tela-Inicial-Instagram/
 
-
+![](https://github.com/edvaldoljr/Projeto-FrontEnd-Clone-Tela-Inicial-Instagram/blob/main/src/img/img-projeto.gif?raw=true)
 
 # ⭐️ **Deixe um Star** ⭐️
 
